@@ -16,4 +16,4 @@ make clean - удаляет все .o файлы.
 
 make fclean - удаляет все .o файлы, также удаляет libft.a.
 
-![alt text](success.png "Описание будет тут")
+![alt text](libft.png "Описание будет тут")
