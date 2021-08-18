@@ -16,3 +16,6 @@ make re - удаляет все .o файлы, удаляет libasm.a, пере
 make clean - удаляет все .o файлы.
 
 make fclean - удаляет все .o файлы, также удаляет libasm.a.
+
+# Оценка
+![alt text](success.png "Описание будет тут")
